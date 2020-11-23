@@ -1,4 +1,4 @@
-package _6_StringCompression;
+package _1_6_StringCompression;
 
 public class App {
 	

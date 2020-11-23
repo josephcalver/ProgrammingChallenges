@@ -1,4 +1,4 @@
-package _7_RotateMatrix;
+package _1_7_RotateMatrix;
 
 public class App {
 

@@ -1,4 +1,4 @@
-package _1_UniqueChars;
+package _1_1_UniqueChars;
 
 public class App {
 	

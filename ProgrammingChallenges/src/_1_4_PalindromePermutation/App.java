@@ -1,4 +1,4 @@
-package _4_PalindromePermutation;
+package _1_4_PalindromePermutation;
 
 public class App {
 	

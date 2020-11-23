@@ -1,4 +1,4 @@
-package _2_Permutation;
+package _1_2_Permutation;
 
 import java.util.Arrays;
 
