@@ -1,4 +1,4 @@
-package _2_3_PartionLinkedList;
+package _2_4_PartionLinkedList;
 
 import LinkedList.LinkedList;
 import LinkedList.Node;
