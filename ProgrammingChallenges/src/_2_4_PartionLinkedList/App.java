@@ -36,7 +36,7 @@ public static void main(String[] args) {
 
 	public static LinkedList<Integer> partition(LinkedList<Integer> list, int value) {
 		
-		LinkedList<Integer> before = new LinkedList<>(), after = new LinkedList<>();
+		LinkedList<Integer> before = new LinkedList<Integer>(), after = new LinkedList<Integer>();
 		Node<Integer> pointer = list.getHead();
 		while (pointer != null) {
 			if (pointer.getData() < value) {
