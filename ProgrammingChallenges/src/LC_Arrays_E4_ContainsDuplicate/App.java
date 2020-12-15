@@ -1,4 +1,4 @@
-package LC_E4_ContainsDuplicate;
+package LC_Arrays_E4_ContainsDuplicate;
 
 import java.util.Arrays;
 import java.util.HashSet;

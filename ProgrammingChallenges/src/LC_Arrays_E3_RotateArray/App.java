@@ -1,4 +1,4 @@
-package LC_E3_RotateArray;
+package LC_Arrays_E3_RotateArray;
 
 public class App {
 

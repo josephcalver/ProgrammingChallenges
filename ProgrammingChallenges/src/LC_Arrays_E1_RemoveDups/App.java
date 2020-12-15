@@ -1,4 +1,4 @@
-package LC_E1_RemoveDups;
+package LC_Arrays_E1_RemoveDups;
 
 public class App {
 

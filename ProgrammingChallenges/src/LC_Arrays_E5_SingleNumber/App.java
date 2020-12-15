@@ -1,4 +1,4 @@
-package LC_E5_SingleNumber;
+package LC_Arrays_E5_SingleNumber;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -33,6 +33,21 @@ public class App {
         int[] nums = {1, 1, 2, 2, 3, 3, 4 };
 
         System.out.println(singleNumber(nums));
+    }
+
+    public static int singleNumberLCSolution(int[] nums) {
+
+        Map<Integer, Integer> hash_table = new HashMap<>();
+
+        for (int i : nums) {
+            hash_table.put(i, hash_table.getOrDefault(i, 0) + 1);
+        }
+        for (int i : nums) {
+            if (hash_table.get(i) == 1) {
+                return i;
+            }
+        }
+        return 0;
     }
 
 }

@@ -1,4 +1,4 @@
-package LC_E2_BuySell;
+package LC_Arrays_E2_BuySell;
 
 public class App {
 
